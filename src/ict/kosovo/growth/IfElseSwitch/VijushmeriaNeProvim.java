@@ -1,4 +1,4 @@
-package ict.kosovo.growth;
+package ict.kosovo.growth.IfElseSwitch;
 import java.util.Scanner;
 public class VijushmeriaNeProvim {
     public static void main(String[] args) {
